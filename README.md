@@ -2,27 +2,20 @@
 
 # 晚晴
 
-写一点 Windows 上 QQ 客户端周边的小工具，偶尔折腾 Minecraft 服务器。
+写 Windows 上 QQ 客户端周边的小工具，做旁挂机器人和 OneBot 生态里的小玩意。写代码之外，偶尔折腾 Minecraft 服务器。
 
 </div>
 
-### 主要在做
+### 项目
 
-**[FrishLuna](https://github.com/FrishLuna/FrishLuna)** — 给 Windows QQ 做的旁挂机器人框架，自带本地网页面板和 OneBot v11 接口，不依赖 npm 运行时包。目前还在开发，仓库暂未公开。
+- **[FrishLuna](https://github.com/FrishLuna/FrishLuna)**：给 Windows QQ 做的旁挂机器人框架，自带本地网页面板和 OneBot v11 接口，零 npm 运行时依赖。开发中，暂未公开。
+- **[SnowCatQQ](https://github.com/wanqing-last/SnowCatQQ)**：QQ 客户端整合包，社区接力维护，V8 通道适配 QQ 9.9.37。
+- **[qqnt-liuli-theme](https://github.com/wanqing-last/qqnt-liuli-theme)**：QQNT 琉璃主题：MCU 壁纸取色、磨砂玻璃、Markdown 渲染、级联入场。
 
-### 其它
+### 折腾过的
 
-- **[SnowCatQQ](https://github.com/wanqing-last/SnowCatQQ)** — QQ 客户端整合包，社区接力维护。
-- **[qqnt-liuli-theme](https://github.com/wanqing-last/qqnt-liuli-theme)** — QQNT 琉璃主题：壁纸取色、磨砂玻璃、Markdown 渲染。
-
-### 手头这些
-
-`Node.js` · `Python` · `C` · 网络协议分析
-
-### 找到我
-
-- 站点：[trinitymc.site](https://trinitymc.site)
-- 有事可以开 issue，或者到站点留言
+- QQ 协议逆向：OIDB 包构造、Highway 分片上传、消息元素 wire 格式。
+- Minecraft 服务器运维与配套站点：[trinitymc.site](https://trinitymc.site)。
 
 ---
 
